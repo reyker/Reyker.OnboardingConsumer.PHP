@@ -1,2 +1,2 @@
 # Reyker.OnboardingConsumer.PHP
-Sample Application for the the Reyker Onboarding
+Sample Application for the Reyker Onboarding

@@ -3,7 +3,7 @@
 
 class Encrypt {
 
-    public function encrypt ($data)
+    public function encryptData ($data)
 	{
 		//16
 		$iv = mcrypt_create_iv(mcrypt_get_iv_size(MCRYPT_RIJNDAEL_128, MCRYPT_MODE_CBC), MCRYPT_RAND);

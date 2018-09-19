@@ -47,8 +47,8 @@ class OnboardingClientDetails {
     public $ExternalCustomerId = "12345";
 
     //[Required]
-    public $ExternalPlanId = "P4545";
-    public $PlanType = 4;
+    public $ExternalPlanId = "P4541";
+    public $PlanType = 10;
     public $MiddleNames = "W";
     public $PlaceOfBirth = "London";
     public $OnlineValuation = true;
@@ -120,7 +120,7 @@ class OnboardingBankAccount {
     public $AccountNumber = "7659708042";
 
     //[Required]
-    public $SortCode = "01-01-01";
+    public $SortCode = "010101";
 }
 
 class OnboardingPrincipalNationality {

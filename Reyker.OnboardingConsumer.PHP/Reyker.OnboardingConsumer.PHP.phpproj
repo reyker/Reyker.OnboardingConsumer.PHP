@@ -18,6 +18,7 @@
     <IncludeDebugInformation>false</IncludeDebugInformation>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Decrypt.php" />
     <Compile Include="Encrypt.php" />
     <Compile Include="index.php" />
     <Compile Include="OnboardingClientDetails.php" />
